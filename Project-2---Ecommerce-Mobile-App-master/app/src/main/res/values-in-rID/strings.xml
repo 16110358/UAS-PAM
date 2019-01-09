@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pesan Makan</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="search_hint">Cari berdasarkan nama, deskripsi atau kategori</string>
+    <string name="category_label">Kategori</string>
+    <string name="description_label">Deskripsi</string>
+    <string name="name_label">Nama</string>
+    <string name="cart_title">Keranjang</string>
+    <string name="lbl_quantity_item_in_basket">Jumlah:</string>
+    <string name="label_total">Total</string>
+    <string name="dialog_message_checkout">Total bayar: $ </string>
+    <string name="yes">Checkout</string>
+    <string name="not_yet">Kembali</string>
+    <string name="stock_count_label">Stok</string>
+    <string name="tap_to_change">(ubah)</string>
+
+</resources>
